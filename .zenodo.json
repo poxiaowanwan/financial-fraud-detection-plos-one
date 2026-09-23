@@ -1,0 +1,19 @@
+{
+  "title": "Financial Fraud Detection through Multi-Dimensional Feature Fusion: Reproducible Python Code",
+  "description": "Reproducible Python implementation for financial fraud detection using financial, non-financial, and MD&A tone indicators in Chinese A-share listed companies.",
+  "creators": [
+    {
+      "name": "Cheng, Xinyao"
+    }
+  ],
+  "keywords": [
+    "financial fraud detection",
+    "machine learning",
+    "LightGBM",
+    "MD&A",
+    "SHAP",
+    "China A-share",
+    "reproducible research"
+  ],
+  "license": "MIT"
+}
