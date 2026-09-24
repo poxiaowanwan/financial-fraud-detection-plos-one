@@ -1,6 +1,0 @@
-﻿metric,point_estimate,CI_lower,CI_upper
-AUC (calibrated),0.7642,0.7476,0.7821
-AUC (raw),0.7668,0.7502,0.7842
-PR-AUC (calibrated),0.2489,0.2252,0.2773
-Brier (calibrated),0.0684,0.0652,0.0718
-Brier (raw),0.2086,0.2048,0.2124
