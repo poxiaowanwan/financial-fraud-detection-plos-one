@@ -1,0 +1,11 @@
+{
+  "title": "Financial Fraud Detection Reproducibility Package",
+  "description": "Code and author-prepared minimal dataset for reproducing the analyses reported in the PLOS ONE manuscript Financial fraud detection through multi-dimensional feature fusion: a machine learning approach incorporating financial, non-financial, and MD&A tone indicators.",
+  "creators": [
+    {"name": "Cheng, Xinyao"}
+  ],
+  "keywords": ["financial fraud detection", "machine learning", "LightGBM", "MD&A", "SHAP", "PLOS ONE"],
+  "license": "MIT",
+  "upload_type": "software",
+  "publication_date": "2026-09-24"
+}

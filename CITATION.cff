@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or the accompanying reproducibility package, please cite the associated PLOS ONE article and the archived Zenodo record."
+title: "Financial Fraud Detection Reproducibility Package"
+type: software
+version: "1.0.0"
+date-released: 2026-09-24
+license: MIT
+repository-code: "https://github.com/REPLACE_WITH_YOUR_GITHUB_REPOSITORY"
+url: "https://doi.org/REPLACE_WITH_YOUR_ZENODO_DOI"
+authors:
+  - family-names: Cheng
+    given-names: Xinyao
+keywords:
+  - financial fraud detection
+  - machine learning
+  - LightGBM
+  - MD&A
+  - SHAP
+  - PLOS ONE
